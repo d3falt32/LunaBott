@@ -1,1 +1,1 @@
-worker: node Lunabot.js
+worker: node LunaBot.js
